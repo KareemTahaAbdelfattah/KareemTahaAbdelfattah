@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kareem Taha Abdelfattah</h1>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Welcome to Kareem Taha Abdelfattah's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <h3 align="center">Embedded Software Engineer</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/KareemTahaAbdelfattah?tab=repositories](https://github.com/KareemTahaAbdelfattah?tab=repositories)
 - 💞️ I’m looking to collaborate in an Automotive field 
