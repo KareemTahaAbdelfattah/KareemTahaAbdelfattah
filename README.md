@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KareemTahaAbdelfattah?tab=repositories](https://github.com/KareemTahaAbdelfattah?tab=repositories)
-- 💞️ I’m looking to collaborate on Automotive field 
+- 💞️ I’m looking to collaborate in an Automotive field 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
