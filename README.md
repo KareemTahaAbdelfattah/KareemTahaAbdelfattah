@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media.tenor.com/YT66q4fVuVsAAAAd/depressed-be-happy.gif">
 
 <h3 align="center">
   Welcome to Kareem Taha Abdelfattah's profile!
@@ -20,8 +20,8 @@
 <a href="https://www.linkedin.com/in/kareem-taha-abdelfattah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kareem_Taha_Abdelfattah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Kareem_Taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="KareemTahaAbdelfattah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kimotaha52?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="KareemTahaAbdelfattah" height="30" width="40" /></a>
-[![GitHub KareemTahaAbdelfattah](https://img.shields.io/github/followers/KareemTahaAbdelfattah?label=follow&style=social)](https://github.com/KareemTahaAbdelfattah)
 </p>
+[![GitHub Red-Cloud2000](https://img.shields.io/github/followers/KareemTahaAbdelfattah?label=follow&style=social)](https://github.com/KareemTahaAbdelfattah)
 
 
 ### 🛠 &nbsp;Tech Stack
