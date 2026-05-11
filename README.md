@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Testing%20Engineer;Embedded%20Systems%20Developer;AUTOSAR%20%7C%20PLC%20%7C%20SCADA%20%7C%20Manual%20Testing;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Testing%20Engineer;Embedded%20Systems%20Developer;AUTOSAR%20%7C%20Manual%20Testing;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=20">
   </a>
 </p>
 
