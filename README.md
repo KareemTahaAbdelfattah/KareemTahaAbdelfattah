@@ -101,10 +101,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kareem-taha-abdelfattah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:kareemtahaabdelfatah@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Kareem_Taha" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="30" />
   </a>
 </p>
 
