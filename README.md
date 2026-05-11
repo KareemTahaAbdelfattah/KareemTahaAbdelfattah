@@ -36,43 +36,6 @@
 - **RESTful APIs** — Knowledge of API testing concepts and validation.
 - **ISTQB Knowledge** — Familiar with core software testing principles and terminology.
 
-### 🧑‍💼 Experience
-
-- **Trainer, EYouth** — Leading technical instruction for “Computer Basics & Digital Foundations” and mentoring 50+ students.
-- **Control and Maintenance Engineer, Cairo Metro** — Diagnosing and resolving PLC/SCADA/RTU faults and supporting control system reliability.
-- **Teaching Assistant, Benha National University** — Delivering tutorials and lab sessions for undergraduate students in CS fundamentals, DBMS, and C++.
-
-### 🚀 Featured Projects
-
-- **Wrong Way Driving Vehicles Detection**
-  - Built an intelligent road safety system combining machine learning vision detection, V2V/X2V communication, and AUTOSAR-compliant in-vehicle networking.
-  - Implemented the AUTOSAR COM Stack to support ECU messaging and automated safety actions.
-  - Graduation Project Grade: Excellent.
-
-- **Space Invaders Game**
-  - Developed a Space Invaders game on a 32-bit ARM Cortex-M4 with ~30–60 FPS performance.
-  - Managed GPIO, timers, interrupts, DAC, and LCD simultaneously while keeping gameplay stable.
-
-- **Guru99 Project**
-  - Practiced testing workflows on a sample project environment.
-  - Applied manual testing and defect reporting concepts in a structured way.
-
-- **OpenCart Demo**
-  - Performed testing on an e-commerce demo platform.
-  - Used common test scenarios to validate user flows, functionality, and basic UI behavior.
-
-### 🏆 Achievements
-
-- Siemens Graduation Project Certificate.
-- Udacity Embedded Systems Professional Nanodegree.
-- Alstom Internship Certificate.
-
-### 🎓 Education
-
-- **B.Sc. in Computer Engineering** — Shoubra Engineering Faculty.
-- Grade: Very good with honors, 83.23%.
-- Community Representative for a 110+ student community, handling communication and lecture coordination.
-
 ### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
