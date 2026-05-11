@@ -107,7 +107,7 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" />
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Kareem_Taha" target="_blank">
-    <img src="https://art.npanuhin.me/SVG/Codeforces/colored.svg" alt="Codeforces" height="30" />
+    <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/codeforces-icon.png" alt="Codeforces" height="30" />
   </a>
 </p>
 
