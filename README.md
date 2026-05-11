@@ -22,8 +22,8 @@
 
 ### 👋 About Me
 
-- 🎓 Software Engineer and Testing Engineer with a strong academic background in Computer Engineering from Shoubra Engineering Faculty.
-- 🧠 Hands-on experience in embedded systems, AUTOSAR, PLC, SCADA, RTU, microcontroller programming, manual testing, and API testing.
+- 🎓 Software Engineer and Testing Engineer with a strong academic background in Computer Engineering.
+- 🧠 Hands-on experience in Embedded Systems, AUTOSAR, microcontroller programming, manual testing, and API testing.
 - 🛠️ Passionate about building reliable, high-performance software and finding defects before release through structured testing.
 - 🤝 Interested in collaboration across embedded systems, automotive software, control systems, and software testing.
 
