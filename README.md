@@ -1,42 +1,93 @@
 <img width="250" align="right" src="https://media.tenor.com/YT66q4fVuVsAAAAd/depressed-be-happy.gif">
 
 <h3 align="center">
-  Welcome to Kareem Taha Abdelfattah's profile!
+  Welcome to Kareem Taha Abd El-Fattah Mohammed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20Software%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=20"></a>
-</p>  
-
-
-- 🏢 I'm an Embedded Software Engineer.
-- 👨‍💻 As a CE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💞️ I’m looking to collaborate in an Automotive field.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kareem-taha-abdelfattah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kareem_Taha_Abdelfattah" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Kareem_Taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="KareemTahaAbdelfattah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kimotaha52?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="KareemTahaAbdelfattah" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kareem-taha-abdelfattah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kareem%20Taha%20Abd%20El--Fattah-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kareemtahaabdelfatah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kareemtahaabdelfatah%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Embedded%20Systems%20Developer;AUTOSAR%20%7C%20PLC%20%7C%20SCADA%20%7C%20Microcontrollers;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=20">
+  </a>
+</p>
 
-### 🛠 &nbsp;Tech Stack
+### 👋 About Me
+
+- 🎓 Software Engineer with a strong academic background in Computer Engineering from Shoubra Engineering Faculty.
+- 🧠 Hands-on experience in embedded systems, AUTOSAR, PLC, SCADA, RTU, and microcontroller programming.
+- 🛠️ Passionate about building reliable, high-performance software and solving complex engineering problems.
+- 🤝 Interested in collaboration across embedded systems, automotive software, and control systems.
+
+### 🧑‍💼 Experience
+
+- **Trainer, EYouth** — Leading technical instruction for “Computer Basics & Digital Foundations” and mentoring 50+ students.
+- **Control and Maintenance Engineer, Cairo Metro** — Diagnosing and resolving PLC/SCADA/RTU faults and supporting control system reliability.
+- **Teaching Assistant, Benha National University** — Delivering tutorials and lab sessions for undergraduate students in CS fundamentals, DBMS, and C++.
+
+### 🚀 Featured Projects
+
+- **Wrong Way Driving Vehicles Detection**
+  - Built an intelligent road safety system combining machine learning vision detection, V2V/X2V communication, and AUTOSAR-compliant in-vehicle networking.
+  - Implemented the AUTOSAR COM Stack to support ECU messaging and automated safety actions.
+  - Graduation Project Grade: Excellent.
+
+- **Space Invaders Game**
+  - Developed a Space Invaders game on a 32-bit ARM Cortex-M4 with ~30–60 FPS performance.
+  - Managed GPIO, timers, interrupts, DAC, and LCD simultaneously while keeping gameplay stable.
+
+### 🏆 Achievements
+
+- Siemens Graduation Project Certificate.
+- Udacity Embedded Systems Professional Nanodegree.
+- Alstom Internship Certificate.
+
+### 🎓 Education
+
+- **B.Sc. in Computer Engineering** — Shoubra Engineering Faculty.
+- Grade: Very good with honors, 83.23%.
+- Community Representative for a 110+ student community, handling communication and lecture coordination.
+
+### 🛠️ Tech Stack
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=Assembly&logoColor=563D7C)&nbsp;
-![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat&logo=AVR)&nbsp;
-![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=ARM)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![AUTOSAR](https://img.shields.io/badge/-AUTOSAR-05122A?style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![Zephyr](https://img.shields.io/badge/-Zephyr-05122A?style=flat)&nbsp;
+![AVR](https://img.shields.io/badge/-AVR-05122A?style=flat)&nbsp;
+![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat)&nbsp;
+![UART](https://img.shields.io/badge/-UART-05122A?style=flat)&nbsp;
+![SPI](https://img.shields.io/badge/-SPI-05122A?style=flat)&nbsp;
+![I2C](https://img.shields.io/badge/-I2C-05122A?style=flat)&nbsp;
 
+### 📫 Connect with me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/kareem-taha-abdelfattah/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:kareemtahaabdelfatah@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="30" /></a>
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!---
-KareemTahaAbdelfattah/KareemTahaAbdelfattah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KareemTahaAbdelfattah/KareemTahaAbdelfattah is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
