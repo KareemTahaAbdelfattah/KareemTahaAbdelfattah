@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td valign="top" width="65%">
+<img width="250" align="right" src="https://media.tenor.com/YT66q4fVuVsAAAAd/depressed-be-happy.gif">
 
 <h3 align="center">
   Welcome to Kareem Taha Abd El-Fattah's profile!
@@ -16,15 +14,11 @@
   </a>
 </p>
 
-    </td>
-    <td valign="top" align="center" width="35%">
-      <img width="250" src="https://media.tenor.com/YT66q4fVuVsAAAAd/depressed-be-happy.gif"><br><br>
-      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Testing%20Engineer;Embedded%20Systems%20Developer;AUTOSAR%20%7C%20Manual%20Testing;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=320&height=45&color=f75c7e&vCenter=true&size=20" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Testing%20Engineer;Embedded%20Systems%20Developer;AUTOSAR%20%7C%20Manual%20Testing;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=20">
+  </a>
+</p>
 
 ### 👋 About Me
 
