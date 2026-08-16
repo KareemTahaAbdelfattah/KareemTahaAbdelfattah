@@ -23,10 +23,10 @@
 ### 👋 About Me
 
 - 🎓 Software Engineer and Testing Engineer with a strong academic background in Computer Engineering.
-- 🧠 Hands-on experience in Embedded Systems, AUTOSAR, microcontroller programming, manual testing, API testing, and test automation.
+- 🧠 Hands-on experience in Embedded Systems, microcontroller programming, manual testing, API testing, and test automation.
 - 🤖 Familiar with Selenium WebDriver, Cucumber, TestNG, REST Assured, and data-driven testing approaches.
 - 🛠️ Passionate about building reliable, high-performance software and finding defects before release through structured testing.
-- 🤝 Interested in collaboration across embedded systems, automotive software, control systems, manual testing, and automation testing.
+- 🤝 Interested in collaboration across embedded systems, automotive software, manual testing, and automation testing.
 
 ### 🧪 Testing Experience
 
