@@ -23,18 +23,25 @@
 ### 👋 About Me
 
 - 🎓 Software Engineer and Testing Engineer with a strong academic background in Computer Engineering.
-- 🧠 Hands-on experience in Embedded Systems, AUTOSAR, microcontroller programming, manual testing, and API testing.
+- 🧠 Hands-on experience in Embedded Systems, AUTOSAR, microcontroller programming, manual testing, API testing, and test automation.
+- 🤖 Familiar with Selenium WebDriver, Cucumber, TestNG, REST Assured, and data-driven testing approaches.
 - 🛠️ Passionate about building reliable, high-performance software and finding defects before release through structured testing.
-- 🤝 Interested in collaboration across embedded systems, automotive software, control systems, and software testing.
+- 🤝 Interested in collaboration across embedded systems, automotive software, control systems, manual testing, and automation testing.
 
 ### 🧪 Testing Experience
 
-- **Manual Testing** — Experience in manual test execution, defect reporting, and verification.
+- **Manual Testing** — Experience in manual test execution, defect reporting, retesting, and verification.
+- **Automation Testing** — Knowledge of building and maintaining automated test scenarios for web applications and APIs.
+- **Selenium WebDriver** — Familiar with automating web UI testing using Selenium.
+- **Cucumber** — Knowledge of Behavior-Driven Development \(BDD\) and writing test scenarios using Gherkin syntax.
+- **TestNG** — Familiar with test execution, annotations, assertions, test suites, and reporting.
+- **Data-Driven Testing** — Knowledge of executing automated tests with multiple test-data sets.
+- **REST Assured** — Familiar with API automation, request validation, response validation, and status-code checks.
 - **Jira** — Used for test tracking, issue management, and workflow coordination.
 - **Zephyr** — Familiar with test case management and test cycle organization.
 - **Agile** — Comfortable working in Agile environments and collaborative team workflows.
 - **RESTful APIs** — Knowledge of API testing concepts and validation.
-- **ISTQB Knowledge** — Familiar with core software testing principles and terminology.
+- **ISTQB CTFL Certified** — Familiar with core software testing principles and terminology.
 
 ### 🛠️ Tech Stack
 
@@ -44,6 +51,12 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+![TestNG](https://img.shields.io/badge/-TestNG-05122A?style=flat)&nbsp;
+![REST Assured](https://img.shields.io/badge/-REST%20Assured-05122A?style=flat)&nbsp;
+![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-05122A?style=flat)&nbsp;
+![Data Driven Testing](https://img.shields.io/badge/-Data--Driven%20Testing-05122A?style=flat)&nbsp;
 ![AUTOSAR](https://img.shields.io/badge/-AUTOSAR-05122A?style=flat)&nbsp;
 ![RESTful API](https://img.shields.io/badge/-RESTful%20API-05122A?style=flat)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
