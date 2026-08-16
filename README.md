@@ -26,7 +26,7 @@
 - 🧠 Hands-on experience in Embedded Systems, microcontroller programming, manual testing, API testing, and test automation.
 - 🤖 Familiar with Selenium WebDriver, Cucumber, TestNG, REST Assured, and data-driven testing approaches.
 - 🛠️ Passionate about building reliable, high-performance software and finding defects before release through structured testing.
-- 
+
 ### 🧪 Testing Experience
 
 - **Manual Testing** — Experience in manual test execution, defect reporting, retesting, and verification.
